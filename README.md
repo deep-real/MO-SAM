@@ -1,4 +1,4 @@
-# MO-SAM_temp
+# MO-SAM
 
 This repository holds the PyTorch implementation of "MO-SAM: Testing the reliability and limits of mine feature delineation using Segment Anything Model to democratize mine observation and research".
 
