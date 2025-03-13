@@ -1,0 +1,43 @@
+Brotli @ file:///croot/brotli-split_1736182456865/work
+certifi @ file:///croot/certifi_1738623731865/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+coloredlogs==15.0.1
+contourpy==1.3.1
+cycler==0.12.1
+filelock @ file:///croot/filelock_1700591183607/work
+flatbuffers==25.2.10
+fonttools==4.56.0
+gmpy2 @ file:///croot/gmpy2_1738085463648/work
+humanfriendly==10.0
+idna @ file:///croot/idna_1714398848350/work
+Jinja2 @ file:///croot/jinja2_1737760107953/work
+kiwisolver==1.4.8
+MarkupSafe @ file:///croot/markupsafe_1738584038848/work
+matplotlib==3.10.1
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1720002482208/work
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682952636358/work
+onnx==1.17.0
+onnxruntime==1.20.1
+opencv-python==4.11.0.86
+packaging==24.2
+pillow @ file:///croot/pillow_1738010226202/work
+protobuf==6.30.0
+pycocotools==2.0.8
+pyparsing==3.2.1
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+python-dateutil==2.9.0.post0
+PyYAML @ file:///croot/pyyaml_1728657952215/work
+requests @ file:///croot/requests_1730999120400/work
+shapely==2.0.7
+six==1.17.0
+sympy @ file:///croot/sympy_1738108488918/work
+torch==2.1.1
+torchaudio==2.1.1
+torchvision==0.16.1
+triton==2.1.0
+typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+urllib3 @ file:///croot/urllib3_1737133630106/work
